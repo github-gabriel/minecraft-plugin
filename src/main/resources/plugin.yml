@@ -1,0 +1,27 @@
+name: Plugin
+version: '${project.version}'
+main: minecraft_plugin.plugin.Main
+api-version: 1.15
+authors: [ Gabriel ]
+description: Erstes Minecraft Plugin
+
+commands:
+  date:
+    description: Zeigt das Datum an, Banko Tutorial
+  heal:
+    description: Heilt den Spieler
+  name:
+    description: Zeigt den Spieler Namen an
+  bridge:
+    description: Baut eine Brücke während des Laufens
+  calculate:
+    description: Rechnet
+  wb:
+    description: WorldBorder Challenge
+  ping:
+    description: pingt einen Server
+  backpack:
+    description: Öffnet einen Rucksack
+  commands:
+    description: Zeigt alle Commands
+
