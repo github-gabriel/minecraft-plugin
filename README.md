@@ -4,6 +4,7 @@ Mein erstes Minecraft Plugin mit ein paar Commands. Die Commands sind wie folgt:
 
 | Befehl     | Beschreibung                        | Weitere Parameter  |
 |------------|-------------------------------------|--------------------|
+| /commands  | Zeigt alle Plugin Commands an       |                    |
 | /date      | Zeigt das aktuelle Datum an         |                    |
 | /heal      | Heilt den Spieler                   |                    |
 | /name      | Zeigt den jetzigen Spielernamen an  |                    |
